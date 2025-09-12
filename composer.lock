@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c12f43aa0bcc4a25a0edfb4f22184a4b",
+    "content-hash": "8641cb64dda296ad5bd3cb885795e8c9",
     "packages": [
         {
             "name": "brick/math",
@@ -1271,16 +1271,16 @@
         },
         {
             "name": "laravel/nightwatch",
-            "version": "v1.7.0",
+            "version": "v1.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/nightwatch.git",
-                "reference": "82a05a1c8dce12e64877e92e559f6c5ba54373ab"
+                "reference": "a3eb15c4c853b63ebf2317ac13f4789fa2f890de"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/nightwatch/zipball/82a05a1c8dce12e64877e92e559f6c5ba54373ab",
-                "reference": "82a05a1c8dce12e64877e92e559f6c5ba54373ab",
+                "url": "https://api.github.com/repos/laravel/nightwatch/zipball/a3eb15c4c853b63ebf2317ac13f4789fa2f890de",
+                "reference": "a3eb15c4c853b63ebf2317ac13f4789fa2f890de",
                 "shasum": ""
             },
             "require": {
@@ -1347,7 +1347,7 @@
                 "issues": "https://github.com/laravel/nightwatch/issues",
                 "source": "https://github.com/laravel/nightwatch"
             },
-            "time": "2025-06-16T07:07:26+00:00"
+            "time": "2025-06-17T05:59:26+00:00"
         },
         {
             "name": "laravel/prompts",
