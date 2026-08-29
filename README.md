@@ -1,4 +1,4 @@
-# Laravel 12 守夜者
+# Laravel 13 守夜者
 
 守夜者是一個託管應用程式監控平台，它為您的應用程式效能提供了無與倫比的洞察力，只有針對 Laravel 進行精心優化的系統才能提供這種智慧。
 
@@ -30,5 +30,5 @@ $ php artisan nightwatch:agent
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/qeZxkF4.png)
+![](https://i.imgur.com/bdFHgDF.png)
 > 快速發現應用程式的問題元件，以解決問題並最大限度減少停機時間
